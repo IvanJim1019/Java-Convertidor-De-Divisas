@@ -2,4 +2,4 @@
 Autor: Ivan Uriel Jimenez Cruz
 challenge ONE+Alura
 
-![Descripción de la imagen](src/images/gif.gif)
+![gif](/src/images/gif.gif)
